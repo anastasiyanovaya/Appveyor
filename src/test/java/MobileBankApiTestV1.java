@@ -18,8 +18,7 @@ class MobileBankApiTestV1 {
                 .get("/demo/accounts")
                 // Проверки
                 .then()
-                .statusCode(200)
-                // static import для JsonSchemaValidator.matchesJsonSchemaInClasspath
-                .body(matchesJsonSchemaInClasspath("accounts.schema.json"));
+                .statusCode(200);
+
     }
 }
