@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ii0fjqyotp395gh8?svg=true)](https://ci.appveyor.com/project/anastasiyanovaya/appveyor)[![Build status](https://ci.appveyor.com/api/projects/status/ii0fjqyotp395gh8?svg=true)](https://ci.appveyor.com/project/anastasiyanovaya/appveyor)
+[![Build status](https://ci.appveyor.com/api/projects/status/ii0fjqyotp395gh8?svg=true)](https://ci.appveyor.com/project/anastasiyanovaya/appveyor)
